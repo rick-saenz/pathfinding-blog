@@ -3,6 +3,7 @@ title: Seeking the zone
 description: This is a post on My Blog about win-win survival strategies.
 date: 2025-04-02T00:05
 tags: []
+draft: true
 ---
 Four years into retirement now, and I'm still crafting a pattern for my days that is satisfying and sustainable. Not that I find myself at loose ends, or directionless -- or, more accurately, to the extent I am, I don't find it disturbing or vexing.
 

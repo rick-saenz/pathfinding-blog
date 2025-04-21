@@ -3,6 +3,7 @@ title: What the writing will be like
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2025-04-02T00:03
 tags: ["writing"]
+draft: true
 ---
 I'll be experimenting with styles here. Such as short sentences and paragraphs like these. One of my hopes is to find better, clearer, more fluid ways to present my thoughts.
 

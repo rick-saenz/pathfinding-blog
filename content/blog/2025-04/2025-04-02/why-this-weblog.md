@@ -3,6 +3,7 @@ title: Why this weblog
 description: This is a post on My Blog about agile frameworks.
 date: 2025-04-02T00:02
 tags: 
+draft: true
 ---
 I am working on a more elaborate website, also called Pathfinding, which will have a place for journal entries like these (and some of these may end up there). 
 

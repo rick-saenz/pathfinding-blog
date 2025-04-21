@@ -3,6 +3,7 @@ title: Web Frameworks
 description: This is a post on My Blog about win-win survival strategies.
 date: 2025-04-02T00:04
 tags: ["programming"]
+draft: true
 ---
 The full-blown website I'm working on is built with the [Astro web framework](https://astro.build/). I like it a lot, and when it was first introduced I spent some time experimenting with it, thinking of what sorts of websites I could use it to build.
 
