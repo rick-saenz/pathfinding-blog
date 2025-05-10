@@ -1,0 +1,13 @@
+---
+title: Lunch in Bar Harbor
+description: This is the initial entry for this journal.
+date: 2025-05-10T00:02
+tags:
+---
+My time in Acadia National Park is broken into two two-week stays, one at Blackwoods Campground on the east side of the island, the second at Seawall Campground on the southwest side. Blackwoods is just six miles south of Bar Harbor, the most well-known and touristy of the island villages. The forecast was for rain all day today (good call!) so I decided to spend the day in town, doing laundry, getting coffee (difficult to make in the rain), and staking out a comfy spot in the very nice Bar Harbor library. Where I sit now, charging my devices and using their wifi.
+
+The two foods I love in New England and am indifferent to everywhere else are ice cream and seafood. I love good local seafood, particularly good whitefish and whole-bellied clams. My diet has been so restricted during the past few years (keto for a long while, then carnivore the past couple) that I basically haven't eaten out, and didn't expect to during this trip. But a month ago I decided to test adding carbs back into my diet -- not regularly, but on occasion -- and that went better than I expected. I had discovered that carbs make me hungry, and so near-to-zero carbs helped greatly in maintaining my latest weight loss. But I wondered if my strict menu had in fact broken my carb addiction, so I added some back tentatively here and there, and so far so good, no cravings have returned. I am still steering away from bread and sweets, but allowing myself the occasional carb-heavy meal such as breaded fried chicken or beans and rice, and I have also added a daily breakfast of oatmeal to my routine.
+
+Anyway, my daughter M asked me this morning if I would be seeking out good seafood while in the area. Possibly, I said. The carbs make me wary, but the price of seafood puts me off even more. But the memory lingers, even if it's been 35 years since I had anything but Texas catfish (and even that maybe 20 years back). So I poked around Google Maps for "fried fish near me", found a highly recommended spot, the Thirsty Whale, a five-minute walk (in the rain) from the library, and decided to have a big lunch there.
+
+Oh. My. Gosh. I almost had the $28 whole-bellied clam plate, decided to splurge another $2 for the Fisherman's Platter -- clams, shrimp, scallops, haddock. All local, ultra fresh, hand-breaded and fried nicely. I am stuffed. I will NOT eat anything further today. Although I may stop for a second cup of coffee on my way back to camp.
