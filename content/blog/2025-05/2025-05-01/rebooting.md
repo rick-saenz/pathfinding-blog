@@ -2,6 +2,7 @@
 title: Blogging again
 description: This is the initial entry for this journal.
 date: 2025-05-01T00:02
+draft: true
 tags:
 ---
 I started a blog in March 2000, kept it going for nearly twenty-five years, although there were fits and starts toward the end.

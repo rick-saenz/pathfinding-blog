@@ -2,6 +2,7 @@
 title: Lunch in Bar Harbor
 description: This is the initial entry for this journal.
 date: 2025-05-10T00:02
+draft: true
 tags:
 ---
 My time in Acadia National Park is broken into two two-week stays, one at Blackwoods Campground on the east side of the island, the second at Seawall Campground on the southwest side. Blackwoods is just six miles south of Bar Harbor, the most well-known and touristy of the island villages. The forecast was for rain all day today (good call!) so I decided to spend the day in town, doing laundry, getting coffee (difficult to make in the rain), and staking out a comfy spot in the very nice Bar Harbor library. Where I sit now, charging my devices and using their wifi.

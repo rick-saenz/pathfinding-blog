@@ -2,6 +2,7 @@
 title: A journey begins
 description: This is the initial entry for this journal.
 date: 2025-05-10T00:01
+draft: true
 tags:
 ---
 It's taken a few days to get to this. Today is the tenth day of what will likely be a very long camping trip. It's not the focus of this blog, but it's what I'm doing right now and I'll write about the interesting parts.
