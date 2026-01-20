@@ -17,3 +17,7 @@ Gear I not only own but actually use. (Not affiliate links.)
 - [Kindle Paperwhite (signature edition)](https://www.amazon.com/All-new-Amazon-Kindle-Paperwhite-Signature/dp/B0C8RR4WN3/)
 - [Boox Page](https://shop.boox.com/blogs/news/introducing-page)
 - [Boox Palma 2](https://shop.boox.com/products/palma2)
+
+### Peripherals
+
+## Home Theater
