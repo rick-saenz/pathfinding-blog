@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that wants to write stuff.
+I am still a person that wants to write stuff.
